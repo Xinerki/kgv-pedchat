@@ -7,3 +7,5 @@ author "Xinerki, Theodorito"
 
 server_script 'server.lua'
 client_script 'client.lua'
+
+lua54 'yes'
